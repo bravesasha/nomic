@@ -238,4 +238,4 @@ Join the discussion on our [:hut: Discord](https://discord.gg/myY5YDR8z8) to ask
 
 <br>
 
-[Go to top](#)
+[Go to top](###)
